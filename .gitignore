@@ -5,3 +5,5 @@ venv/
 backend/.env
 backend/chroma_db/
 .env
+oldGeminiRagFile.py
+Bugs.txt
