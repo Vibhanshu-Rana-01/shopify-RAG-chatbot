@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+backend/.env
+backend/chroma_db/
+.env
