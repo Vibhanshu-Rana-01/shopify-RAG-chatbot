@@ -1,6 +1,0 @@
-1. Refetching and reindexing everything on every restart
-2. No incremental sync. The data is completely wiped from Db and re-written at every restart, URL change (reload) and every auto-sync. Instead it should only check for changed data (the product no longer available in store or new products added to store)
-
-
-Not_A_Bug: C:\Users\TUFF\.gemini\antigravity\scratch\mobile-covers-chatbot\backend project location
-Virtual Env Cmd: venv\Scripts\activate
