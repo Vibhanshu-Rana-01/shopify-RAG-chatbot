@@ -1,6 +1,6 @@
 # 📱 Mobile Covers Chatbot — RAG-Powered Shopping Assistant
 
-A fully functional RAG (Retrieval-Augmented Generation) chatbot for your Shopify mobile covers store. Powered by **Groq (LLaMA 3.3 70B)**, **local sentence-transformers embeddings**, **ChromaDB**, and **FastAPI**.
+A fully functional Baseline RAG (Retrieval-Augmented Generation) chatbot for your Shopify store. Powered by **Groq (LLaMA 3.3 70B)**, **local sentence-transformers embeddings**, **ChromaDB**, and **FastAPI**.
 
 ---
 
